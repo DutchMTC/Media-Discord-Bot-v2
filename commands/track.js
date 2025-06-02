@@ -1,4 +1,4 @@
-const { SlashCommandBuilder, EmbedBuilder, Colors } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, Colors, PermissionFlagsBits } = require('discord.js');
 const { readConfig, writeConfig } = require('../utils/configHelper.js');
 const { resolveYouTubeIdentifierToChannelId } = require('../services/youtubeService.js');
 
