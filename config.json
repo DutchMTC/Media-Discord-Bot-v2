@@ -1,0 +1,23 @@
+{
+  "clientId": "1377359406227787876",
+  "streamCheckIntervalMinutes": 5,
+  "reportChannelId": "1377360771838902382",
+  "liveAnnounceChannelId": "1377360781590659242",
+  "munchyStreamChannelId": "1377360781590659242",
+  "trackedChannels": [
+    {
+      "platform": "Twitch",
+      "channelId": "miyaki404",
+      "channelName": "miyaki404",
+      "channelLink": "twitch.tv/miyaki404",
+      "targetUserId": "140180279628136449"
+    },
+    {
+      "platform": "Twitch",
+      "channelId": "DutchMTC",
+      "channelName": "DutchMTC",
+      "channelLink": "https://twitch.tv/DutchMTC",
+      "targetUserId": "358678647781195778"
+    }
+  ]
+}
